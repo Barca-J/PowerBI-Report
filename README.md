@@ -4,7 +4,7 @@ Report, v ktorom sa nachádza analýza vybraných podnikov a ich postavenie v od
 
 A report containing an analysis of selected companies and their position in the industry. To analyze the financial health of companies, ratio indicators of liquidity, activity, debt and profitability were used, along with Altman's Z-score. To assess their market position, the values of these indicators were compared with the average values of the analyzed companies.
 
-
+<p>  </p>
 
 Screenshoty dashboardov z reportu / screenshots of dashboards from the report:
 

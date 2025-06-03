@@ -1,5 +1,5 @@
 # PowerBI-Report
-
+https://app.powerbi.com/groups/me/reports/70fac44b-ed2b-4232-bc1b-48c8ca5ec635/ReportSection?experience=power-bi
 Report, v ktorom sa nachádza analýza vybraných podnikov a ich postavenie v odbore. Na analýzu zdravia podnikov boli použité pomerové finančné ukazovatele likvidity, aktivity, zadlženosti a rentability a Altmanovo Z-skóre, pokým na analýzu ich postavenia na trhu boli porovnávané hodnoty ukazovateľov s priemermi jednotlivých hodnôt analyzovaných podnikov.
 
 A report containing an analysis of selected companies and their position in the industry. To analyze the financial health of companies, ratio indicators of liquidity, activity, debt and profitability were used, along with Altman's Z-score. To assess their market position, the values of these indicators were compared with the average values of the analyzed companies.
